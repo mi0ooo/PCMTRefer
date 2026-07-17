@@ -12,5 +12,18 @@ We are currently organizing and standardizing the project code. All complete sou
 Please star and watch this repository for the latest updates.
 Visualization Results
 We provide qualitative visualization of typical successful segmentation cases and challenging failure cases, including object occlusion, intra-class interference, complex spatial layout, and ambiguous language description scenarios.
-<img width="528" height="431" alt="image" src="https://github.com/user-attachments/assets/5ff66cf8-c525-4907-8138-c2ed8a1c5ed1" />
-<img width="515" height="456" alt="image" src="https://github.com/user-attachments/assets/d2a99140-7624-440f-a8d8-a112ff348c21" />
+<div align="center">
+  <img width="528" height="431" alt="image"
+       src="https://github.com/user-attachments/assets/5ff66cf8-c525-4907-8138-c2ed8a1c5ed1" />
+
+  <br><br>
+
+  <img width="515" height="456" alt="image"
+       src="https://github.com/user-attachments/assets/d2a99140-7624-440f-a8d8-a112ff348c21" />
+</div>
+<div align="center">
+  <img width="48%" alt="image"
+       src="https://github.com/user-attachments/assets/5ff66cf8-c525-4907-8138-c2ed8a1c5ed1" />
+  <img width="48%" alt="image"
+       src="https://github.com/user-attachments/assets/d2a99140-7624-440f-a8d8-a112ff348c21" />
+</div>
