@@ -20,4 +20,5 @@ We provide qualitative visualization of typical successful segmentation cases an
 
   <img width="515" height="456" alt="image"
        src="https://github.com/user-attachments/assets/d2a99140-7624-440f-a8d8-a112ff348c21" />
+</div>
 
